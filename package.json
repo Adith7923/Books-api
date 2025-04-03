@@ -17,5 +17,8 @@
     "url": "https://github.com/Adith7923/Books-api/issues"
   },
   "homepage": "https://github.com/Adith7923/Books-api#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
